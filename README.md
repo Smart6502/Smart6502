@@ -2,7 +2,7 @@
 
 #### **My Languages and Tools:**
 
-VSCode
+
 
 <img align="left" alt="VSCode" width="26px" src="https://en.opensuse.org/images/e/e8/Vscode.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -38,9 +38,9 @@ release */
 
 <li>mkfs.ext4 /dev/sda1</li>
 
-<li>dd if=/dev/random of=/dev/sda</li>
+<li>**dd if=/dev/random of=/dev/sda**</li>
 
-<li>mv ~ /dev/null</li>
+<li>**mv ~ /dev/null**</li>
 
 ##### _Hope nobody minds me doing this to their computer ;)_
 
