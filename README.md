@@ -48,11 +48,11 @@ release */
 
 [<img align="left" alt="Discord" width="26px" src="nextxnew.png" />][nextx]
 
-[nextx]: https://discord.gg/mv9XEmk
+[nextx]: https://github.com/Smart6502/Smart6502
 
 [<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />][nextxdiscord]
 
-[nextxdiscord]: https://github.com/Smart6502/Smart6502
+[nextxdiscord]: https://discord.gg/mv9XEmk
 
 <br>
 
