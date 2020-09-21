@@ -1,6 +1,6 @@
-### **Hallo there** 👋
+## **Hallo there** 👋
 
-#### **My Languages and Tools:**
+### **My Languages and Tools:**
 
 
 
@@ -16,7 +16,7 @@
 
 <br>
 
-#### **Favourite things to do:**
+### **Favourite things to do:**
 
 <ul>
 
@@ -38,13 +38,23 @@ release */
 
 <li>mkfs.ext4 /dev/sda1</li>
 
-<li>**dd if=/dev/random of=/dev/sda**</li>
+<li>dd if=/dev/random of=/dev/sda</li>
 
-<li>**mv ~ /dev/null**</li>
+<li>mv ~ /dev/null</li>
 
-##### _Hope nobody minds me doing this to their computer ;)_
+#### _Hope nobody minds me doing this to their computer ;)_
 
-#### Contact me:
+#### Working on my NextX Discord Bot
+
+[<img align="left" alt="Discord" width="26px" src="nextxnew.png" />][nextx]
+
+[nextx]: https://discord.gg/mv9XEmk
+
+[<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />][nextxdiscord]
+
+[nextxdiscord]: https://github.com/Smart6502/Smart6502
+
+### Contact me:
 
 [<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />][discord]
 
