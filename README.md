@@ -44,17 +44,9 @@ release */
 
 #### _Hope nobody minds me doing this to their computer ;)_
 
-#### Working on my NextX Discord Bot
+#### Working on XenithEFI
 
-[<img align="left" alt="Discord" width="26px" src="nextxnew.png" />][nextx]
-
-[nextx]: https://github.com/Smart6502/NextX
-
-[<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />][nextxdiscord]
-
-[nextxdiscord]: https://discord.gg/mv9XEmk
-
-<br>
+`https://github.com/Smart6502/XenithEFI`
 
 ### Contact me:
 
