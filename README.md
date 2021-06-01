@@ -44,9 +44,11 @@ release */
 
 #### _Hope nobody minds me doing this to their computer ;)_
 
-#### Working on cozen
+#### Working on plutonem, beval, and charon
 
-`https://github.com/Smart6502/cozen`
+`https://github.com/Smart6502/plutonem`
+`https://github.com/Smart6502/beval`
+`https://github.com/Smart6502/charon`
 
 ### Contact me:
 
