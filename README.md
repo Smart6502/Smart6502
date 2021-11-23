@@ -3,7 +3,7 @@
 ---
 
 ### **Languages I know:** <br>
-C, C++, sh/bash, x86 asm, HTML and CSS
+C, C++, Rust, Forth, x86 assembly, shell script and probabaly some HTML and CSS
 <br>
 
 ### **What I'm working on**:
